@@ -1,0 +1,75 @@
+
+# Naya Path Law Project
+
+**Naya Path** is a legal services website designed to provide easy access to legal information and connect users with legal professionals. This project aims to simplify the legal process and make legal support more accessible to the general public.
+
+---
+
+## 🚀 Features
+
+- **Home Page:** Welcomes users and provides an overview of the platform.
+- **About Us:** Describes the vision, mission, and background of the organization.
+- **Services:** Lists and explains the legal services offered.
+- **Our Team:** Introduces the legal professionals and contributors behind the platform.
+- **Contact Us:** Allows users to reach out with questions, queries, or requests for legal help.
+
+---
+
+## 📂 Project Structure
+
+```
+Naya-Path-Law-project/
+│
+├── index.html              # Main landing page
+├── about.html              # About the organization
+├── service.html            # Services offered
+├── team.html               # Team introduction
+├── contact.html            # Contact form
+└── lawyer-website-template.jpg  # Website preview image
+```
+
+---
+
+## 💻 Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sani-Yadav/Naya-Path-Law-project.git
+   ```
+2. Open the `index.html` file in your browser to explore the website.
+
+---
+
+## 📌 Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript (Basic interactions)  
+- Bootstrap (if used in styling)
+
+---
+
+## 🧑‍💼 Contribution
+
+We welcome contributions to improve and grow this project!  
+If you'd like to contribute:
+- Fork the repository
+- Create a new branch
+- Make your changes
+- Submit a pull request
+
+For significant changes, please open an issue first to discuss what you’d like to do.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it as per the terms.
+
+---
+
+## 📬 Contact
+
+For inquiries or support, please visit the [Contact Us](contact.html) page or reach out via the project's GitHub Issues section.
